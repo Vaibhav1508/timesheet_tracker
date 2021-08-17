@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/time_tracker/app/BuildConfig.java
+ com.time_tracker.app.BuildConfig
+com/time_tracker/app/MainActivity.java
+ com.time_tracker.app.MainActivity

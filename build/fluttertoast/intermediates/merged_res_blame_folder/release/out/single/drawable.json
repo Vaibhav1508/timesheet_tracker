@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\time_tracker_flutter\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\7feeda44582989ec8d71e25a78cadf3d\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\time_tracker_flutter\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable\\toast_bg.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\Downloads\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-7.1.8\\android\\src\\main\\res\\drawable\\toast_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\time_tracker_flutter\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\7feeda44582989ec8d71e25a78cadf3d\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\time_tracker_flutter\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable\\corner.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\Downloads\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-7.1.8\\android\\src\\main\\res\\drawable\\corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\time_tracker_flutter\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\7feeda44582989ec8d71e25a78cadf3d\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\time_tracker_flutter\\build\\fluttertoast\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\7feeda44582989ec8d71e25a78cadf3d\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]
